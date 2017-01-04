@@ -1,3 +1,4 @@
+
 <?php
     $monfichier = fopen('questions.qs', 'r+');
     $stack = array();
